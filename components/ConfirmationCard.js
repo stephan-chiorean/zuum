@@ -37,7 +37,7 @@ const ConfirmationCard = () => {
         </View>
       </View>
       <View>
-        <Text style={tw`text-center text-lg font-semibold`}>Your ride is with Ahsan Ali</Text>
+        <Text style={tw`text-center text-lg font-semibold`}>Your Zuum is with Ahsan Ali</Text>
       </View>
     </View>
   );
